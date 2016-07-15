@@ -1,0 +1,4 @@
+# socketroom
+```
+node rectfun.js
+```
