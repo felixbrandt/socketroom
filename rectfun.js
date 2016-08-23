@@ -74,3 +74,4 @@ io.on("connection", function(socket) {
 });
 
 app.listen(8080);
+console.log('\x1b[32mServer is now listening at port 8080\x1b[0m'); // Change color to green and then back to normal
