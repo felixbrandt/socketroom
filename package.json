@@ -1,0 +1,22 @@
+{
+  "name": "socketroom",
+  "version": "1.0.0",
+  "description": "Websocket test with nodejs",
+  "main": "rectfun.js",
+  "dependencies": {
+    "socket.io": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixbrandt/socketroom.git"
+  },
+  "author": "Felix Brandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixbrandt/socketroom/issues"
+  },
+  "homepage": "https://github.com/felixbrandt/socketroom#readme"
+}
