@@ -7,3 +7,6 @@ npm install
 
 node rectfun.js
 ```
+
+## Projects inspired by socketroom
+- [Joter Blox](https://github.com/nimos/joterblox), a Node.js multiplayer 2D platforming shooter
